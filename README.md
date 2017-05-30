@@ -6,6 +6,6 @@
 
 ## docker run
 ```
-$ docker run -it --rm -v $CONFIG_PATH:/config garoon-google:latest
+$ docker run --rm -v $CONFIG_PATH:/config garoon-google:latest
 ```
 
